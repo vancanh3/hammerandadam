@@ -1,0 +1,28 @@
+E:\Dot Net\SeniorProject\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.deps.json
+E:\Dot Net\SeniorProject\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.runtimeconfig.json
+E:\Dot Net\SeniorProject\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.runtimeconfig.dev.json
+E:\Dot Net\SeniorProject\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.dll
+E:\Dot Net\SeniorProject\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.pdb
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.csprojAssemblyReference.cache
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.csproj.CoreCompileInputs.cache
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.RazorAssemblyInfo.cache
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.RazorAssemblyInfo.cs
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.AssemblyInfoInputs.cache
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.AssemblyInfo.cs
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.RazorTargetAssemblyInfo.cache
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.dll
+E:\Dot Net\SeniorProject\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.pdb
+D:\senior_project\senior_project\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.deps.json
+D:\senior_project\senior_project\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.runtimeconfig.json
+D:\senior_project\senior_project\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.runtimeconfig.dev.json
+D:\senior_project\senior_project\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.dll
+D:\senior_project\senior_project\SeniorProject\bin\Debug\netcoreapp2.2\SeniorProject.pdb
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.csprojAssemblyReference.cache
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.csproj.CoreCompileInputs.cache
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.RazorAssemblyInfo.cache
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.RazorAssemblyInfo.cs
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.AssemblyInfoInputs.cache
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.AssemblyInfo.cs
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.RazorTargetAssemblyInfo.cache
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.dll
+D:\senior_project\senior_project\SeniorProject\obj\Debug\netcoreapp2.2\SeniorProject.pdb
